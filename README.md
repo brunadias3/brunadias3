@@ -23,19 +23,20 @@ Here are some ideas to get you started:
   <h1></h1>
   <h3>💻 Technologies</h3>
   <div style="display: inline_block"><br/>
-  <img height="50" width="50" align="center" alt="javascript-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="50" width="50" align="center" alt="nodejs-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="50" width="50" align="center" alt="python-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="50" width="50" align="center" alt="typescript-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="50" width="50" align="center" alt="react-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="50" width="50" align="center" alt="html5-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="50" width="50" align="center" alt="css3-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img src="https://skillicons.dev/icons?i=js">
+    <img src="https://skillicons.dev/icons?i=ts">
+    <img src="https://skillicons.dev/icons?i=py">
+    <img src="https://skillicons.dev/icons?i=react">
+    <img src="https://skillicons.dev/icons?i=java">
+    <img src="https://skillicons.dev/icons?i=nodejs">
+    <img src="https://skillicons.dev/icons?i=html">
+    <img src="https://skillicons.dev/icons?i=css">
 </div>
 
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/brunadias3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+  <a href="https://www.linkedin.com/in/brunadias3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"  /></a>
 </div>
 
 ##
