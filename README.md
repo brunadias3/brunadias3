@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunadias3&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunadias3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
-  ###💻Technologies
+<br>
+  <h1></h1>
+  <h3>💻 Technologies</h3>
   <div style="display: inline_block"><br/>
   <img height="50" width="50" align="center" alt="javascript-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="50" width="50" align="center" alt="nodejs-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
