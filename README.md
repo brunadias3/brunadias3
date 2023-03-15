@@ -27,7 +27,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=ts">
     <img src="https://skillicons.dev/icons?i=py">
     <img src="https://skillicons.dev/icons?i=react">
-    <img src="https://skillicons.dev/icons?i=java">
     <img src="https://skillicons.dev/icons?i=nodejs">
     <img src="https://skillicons.dev/icons?i=html">
     <img src="https://skillicons.dev/icons?i=css">
