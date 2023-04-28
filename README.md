@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <div style="display: inline_block"><br/>
     <img src="https://skillicons.dev/icons?i=js">
     <img src="https://skillicons.dev/icons?i=ts">
+    <img src="https://skillicons.dev/icons?i=vue">
     <img src="https://skillicons.dev/icons?i=py">
     <img src="https://skillicons.dev/icons?i=react">
     <img src="https://skillicons.dev/icons?i=nodejs">
