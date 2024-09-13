@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 ##
 
 - 🔭 I’m currently working on [SuperClient Solutions](https://novo.superclientsolutions.com/)
-- 🌱 I’m currently learning React.
-- 🎓 I’m currently studying at [Fatec SJC](https://fatecsjc-prd.azurewebsites.net/)
+- 🌱 I’m currently improving myself on VueJS.
+- 🎓 I’m graduated at [Fatec SJC](https://fatecsjc-prd.azurewebsites.net/)
