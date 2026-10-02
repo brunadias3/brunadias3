@@ -1,46 +1,83 @@
-### Hi there 👋
+# Hi there! 👋 I'm Bruna
 
-<!--
-**brunadias3/brunadias3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer** focused on building web applications, APIs, microservices and automation solutions.
 
-Here are some ideas to get you started:
+I work across the software development lifecycle, from requirements analysis and software architecture to implementation, testing, documentation and maintenance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div>
-<a href="https://github.com/brunadias3">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunadias3&layout=compact&langs_count=7&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunadias3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</div>
-<br>
-  <h1></h1>
-  <h3>💻 Technologies</h3>
-  <div style="display: inline_block"><br/>
-    <img src="https://skillicons.dev/icons?i=js">
-    <img src="https://skillicons.dev/icons?i=ts">
-    <img src="https://skillicons.dev/icons?i=vue">
-    <img src="https://skillicons.dev/icons?i=py">
-    <img src="https://skillicons.dev/icons?i=react">
-    <img src="https://skillicons.dev/icons?i=nodejs">
-    <img src="https://skillicons.dev/icons?i=html">
-    <img src="https://skillicons.dev/icons?i=css">
-</div>
+I'm particularly interested in **Fullstack Development, Software Architecture, Microservices, APIs and scalable systems**.
 
-##
+## 🛠️ Technologies
+
+### Languages & Frameworks
 
 <div>
-  <a href="https://www.linkedin.com/in/brunadias3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"  /></a>
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=vue" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
 </div>
 
-##
+### Tools & Technologies
 
-- 🔭 I’m currently working on [SuperClient Solutions](https://novo.superclientsolutions.com/)
-- 🌱 I’m currently improving myself on VueJS.
-- 🎓 I’m graduated at [Fatec SJC](https://fatecsjc-prd.azurewebsites.net/)
+<div>
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+</div>
+
+## 💼 Experience
+
+🔭 Currently working at [SuperClient Solutions](https://superclient.com.br/) as a Software Developer.
+
+My experience includes:
+
+* Fullstack web development
+* REST APIs and system integrations
+* Microservices
+* Frontend development with React and Vue.js
+* Backend development with Node.js and Python
+* Automation solutions
+* Database modeling
+* Software architecture
+* Testing and maintenance
+
+## 🚀 Projects
+
+### 🌐 Web Applications
+
+Development of web applications using modern frontend and backend technologies, with a focus on maintainability, reusable components and API integration.
+
+**Tech:** TypeScript · React · Vue.js · Vite · Node.js
+
+### 🧩 Microservices & APIs
+
+Experience building and integrating APIs and microservices, including backend services, database integration and communication between systems.
+
+**Tech:** Python · FastAPI · Node.js · SQLAlchemy · Alembic · Docker
+
+### ⚙️ Automation
+
+Development of automation solutions for repetitive processes and system integrations, combining software development with process automation.
+
+**Tech:** Python · JavaScript · APIs · Selenium
+
+## 🎓 Education
+
+🎓 **Analysis and Systems Development**
+[Fatec Prof. Jessen Vidal](https://fatec-sp.br/)
+
+## 📫 Connect with me
+
+<div>
+  <a href="https://www.linkedin.com/in/brunadias3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/brunadias3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</div>
